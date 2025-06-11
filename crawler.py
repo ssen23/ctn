@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 # MongoDB 연결
-client = MongoClient("mongodb+srv://TkrTmfl:TkrTmflpw@cluster0.nvdlnyy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient("mongodb+srv://PW")
 db = client["news_politics"]
 collection = db["2025.06.09"]
 
