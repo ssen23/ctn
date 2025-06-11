@@ -1,8 +1,5 @@
-**문장 의미분석을 이용한 
-CTN 판별 모델 개발**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=문장 의미분석을 이용한 CTN 판별 모델 개발" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text="**문장 의미분석을 이용한 
-CTN 판별 모델 개발**"" />
 
 
 **CTN의 명명**
