@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 # MongoDB 연결
 try:
     client = MongoClient(
-        "mongodb+srv://TkrTmfl:TkrTmflpw@cluster0.nvdlnyy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "mongodb+srv://PW",
         serverSelectionTimeoutMS=5000
     )
     client.admin.command('ping')  # 연결 테스트
